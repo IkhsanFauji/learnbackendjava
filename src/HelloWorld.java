@@ -38,7 +38,7 @@ public class HelloWorld {
 
         System.out.print("Hasil perkalian "+x+" dan "+y+" adalah: "+value+"\n");
 
-        y = 6; // set new value of y
+        y = 10; // set new value of y
         value = x * y; // define variable value yang melakukan perkalian dari x dan y
         System.out.print("Hasil perkalian kedua "+x+" dan "+y+" adalah: "+value);
     }
